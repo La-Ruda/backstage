@@ -83,7 +83,7 @@ a:hover {
   grid-column: 1;
   grid-row: 1;
   place-self: center start;
-  margin: 0 0 0 50px;
+  margin: 10px 0 0 50px;
 }
 
 .scrollsnap__sticky__logo img {
@@ -95,7 +95,7 @@ a:hover {
   grid-column: 3;
   grid-row: 1;
   place-self: center end;
-  margin: 0 50px 0 0;
+  margin: 10px 50px 0 0;
 }
 
 .scrollsnap__sticky__adress p {
